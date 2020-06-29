@@ -1,4 +1,4 @@
-Cluster_Name,Cluster_Details,Location,State,Cases,From date,As at date,Details 
+clusterName,clusterDetails,Location,State,Cases,fromDate,asAtDate,Details
 Burnie Hospitals,North West Regional Hospital (NWRH) and the North West Private Hospital (NWPH),Burnie,Tasmania,127,27/03/2020,30/04/2020,Probably originating from two patients from the Ruby Princess cruise ship.
 Cedar Meats,Cedar Meats meatworks,Brooklyn,Victoria,111,02/05/2020,22/05/2020,
 Anglicare Newmarch House,Anglicare Newmarch House,Kingswood,New South Wales,71,11/04/2020,19/05/2020,34 staff and 37 residents infected as at 19 May 2020. 19 residents have died.
